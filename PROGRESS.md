@@ -8,3 +8,4 @@
 - [2024-06-28T12:02:54.000Z] Fix layout for smaller screens
 - [2024-06-30T05:21:47.000Z] Add spinning animation logic
 - [2024-06-30T04:41:01.000Z] Work on responsive design
+- [2024-06-30T07:29:58.000Z] Adjust font family for better readability
