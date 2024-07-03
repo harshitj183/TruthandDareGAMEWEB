@@ -12,3 +12,4 @@
 - [2024-07-02T10:55:59.000Z] Optimize background colors
 - [2024-07-02T10:13:06.000Z] Refine UI layout
 - [2024-07-02T11:09:32.000Z] Optimize background colors
+- [2024-07-03T10:43:18.000Z] Adjust font family for better readability
