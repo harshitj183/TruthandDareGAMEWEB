@@ -17,3 +17,4 @@
 - [2024-07-03T16:00:42.000Z] Tweak CSS styles
 - [2024-07-04T04:32:58.000Z] Fix layout for smaller screens
 - [2024-07-04T06:40:07.000Z] Improve button hover effects
+- [2024-07-05T16:25:49.000Z] Add spinning animation logic
