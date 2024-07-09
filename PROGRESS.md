@@ -22,3 +22,4 @@
 - [2024-07-06T05:35:55.000Z] Log progress on truth and dare generation
 - [2024-07-07T12:14:02.000Z] Log progress on truth and dare generation
 - [2024-07-09T10:31:08.000Z] Optimize background colors
+- [2024-07-09T08:15:53.000Z] Refactor JS functions
