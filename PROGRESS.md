@@ -26,3 +26,4 @@
 - [2024-07-09T04:23:25.000Z] Test edge cases for empty name input
 - [2024-07-10T04:20:44.000Z] Optimize background colors
 - [2024-07-10T17:42:42.000Z] Fix minor bug in random selection
+- [2024-07-10T13:08:55.000Z] Fix layout for smaller screens
