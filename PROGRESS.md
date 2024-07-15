@@ -33,3 +33,4 @@
 - [2024-07-12T09:59:52.000Z] Tweak CSS styles
 - [2024-07-15T11:36:31.000Z] Log progress on truth and dare generation
 - [2024-07-15T13:11:40.000Z] Improve button hover effects
+- [2024-07-15T15:57:57.000Z] Add comments to code
