@@ -34,3 +34,4 @@
 - [2024-07-15T11:36:31.000Z] Log progress on truth and dare generation
 - [2024-07-15T13:11:40.000Z] Improve button hover effects
 - [2024-07-15T15:57:57.000Z] Add comments to code
+- [2024-07-16T16:38:14.000Z] Refactor JS functions
