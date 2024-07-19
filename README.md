@@ -25,7 +25,7 @@ A web-based "Truth or Dare" game designed for playing with friends. Users can in
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/truth-or-dare-game.git
+    git clone https://github.com/harshitj183/TruthandDareGAMEWEB.git
     ```
 2. Open `index.html` in a web browser to start the game.
 
