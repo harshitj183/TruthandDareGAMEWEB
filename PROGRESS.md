@@ -48,3 +48,4 @@
 - [2024-07-20T08:43:19.000Z] Tweak CSS styles
 - [2024-07-20T12:51:58.000Z] Test edge cases for empty name input
 - [2024-07-20T12:05:18.000Z] Review accessibility structure
+- [2024-07-23T16:29:22.000Z] Adjust font family for better readability
