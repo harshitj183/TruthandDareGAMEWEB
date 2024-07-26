@@ -56,3 +56,4 @@
 - [2024-07-25T10:30:54.000Z] Add spinning animation logic
 - [2024-07-25T11:56:52.000Z] Test edge cases for empty name input
 - [2024-07-25T06:44:19.000Z] Test edge cases for empty name input
+- [2024-07-26T11:06:38.000Z] Review accessibility structure
