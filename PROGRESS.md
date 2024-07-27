@@ -59,3 +59,4 @@
 - [2024-07-26T11:06:38.000Z] Review accessibility structure
 - [2024-07-26T07:56:42.000Z] Tweak CSS styles
 - [2024-07-26T08:28:30.000Z] Add spinning animation logic
+- [2024-07-27T17:51:56.000Z] Fix layout for smaller screens
