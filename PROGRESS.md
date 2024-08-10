@@ -81,3 +81,4 @@
 - [2024-08-09T16:59:39.000Z] Review accessibility structure
 - [2024-08-09T10:20:49.000Z] Optimize background colors
 - [2024-08-10T14:40:27.000Z] Review accessibility structure
+- [2024-08-10T12:37:30.000Z] Update README with more instructions
