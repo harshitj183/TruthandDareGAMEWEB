@@ -84,3 +84,4 @@
 - [2024-08-10T12:37:30.000Z] Update README with more instructions
 - [2024-08-10T11:47:19.000Z] Update README with more instructions
 - [2024-08-10T06:46:49.000Z] Adjust font family for better readability
+- [2024-08-13T14:39:29.000Z] Update README with more instructions
