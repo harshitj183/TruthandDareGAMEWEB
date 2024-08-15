@@ -92,3 +92,4 @@
 - [2024-08-15T07:17:05.000Z] Clean up unused variables
 - [2024-08-15T18:04:46.000Z] Fix layout for smaller screens
 - [2024-08-15T15:24:49.000Z] Refactor JS functions
+- [2024-08-15T13:20:53.000Z] Add spinning animation logic
