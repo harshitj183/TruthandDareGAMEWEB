@@ -95,3 +95,4 @@
 - [2024-08-15T13:20:53.000Z] Add spinning animation logic
 - [2024-08-17T09:03:23.000Z] Add spinning animation logic
 - [2024-08-17T12:45:10.000Z] Fix minor bug in random selection
+- [2024-08-17T07:42:27.000Z] Adjust font family for better readability
