@@ -98,3 +98,4 @@
 - [2024-08-17T07:42:27.000Z] Adjust font family for better readability
 - [2024-08-17T09:27:33.000Z] Fix layout for smaller screens
 - [2024-08-18T09:36:09.000Z] Refactor JS functions
+- [2024-08-18T06:48:53.000Z] Adjust font family for better readability
