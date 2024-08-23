@@ -105,3 +105,4 @@
 - [2024-08-20T16:36:28.000Z] Tweak CSS styles
 - [2024-08-20T14:33:49.000Z] Log progress on truth and dare generation
 - [2024-08-23T11:32:02.000Z] Refine UI layout
+- [2024-08-23T11:46:55.000Z] Update README with more instructions
