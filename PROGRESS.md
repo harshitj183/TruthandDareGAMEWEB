@@ -112,3 +112,4 @@
 - [2024-08-24T13:28:48.000Z] Log progress on truth and dare generation
 - [2024-08-24T16:47:52.000Z] Optimize background colors
 - [2024-08-25T11:44:59.000Z] Test edge cases for empty name input
+- [2024-08-25T18:01:01.000Z] Fix layout for smaller screens
