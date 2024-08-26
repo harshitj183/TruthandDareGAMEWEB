@@ -116,3 +116,4 @@
 - [2024-08-25T09:28:52.000Z] Update README with more instructions
 - [2024-08-25T17:32:04.000Z] Log progress on truth and dare generation
 - [2024-08-26T16:51:08.000Z] Optimize background colors
+- [2024-08-26T15:55:34.000Z] Tweak CSS styles
