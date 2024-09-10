@@ -136,3 +136,4 @@
 - [2024-09-09T09:21:27.000Z] Fix layout for smaller screens
 - [2024-09-10T13:25:48.000Z] Tweak CSS styles
 - [2024-09-10T04:59:20.000Z] Refactor JS functions
+- [2024-09-10T12:35:38.000Z] Update project structure
