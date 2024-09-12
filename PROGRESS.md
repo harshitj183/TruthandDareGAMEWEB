@@ -138,3 +138,4 @@
 - [2024-09-10T04:59:20.000Z] Refactor JS functions
 - [2024-09-10T12:35:38.000Z] Update project structure
 - [2024-09-12T15:53:23.000Z] Update README with more instructions
+- [2024-09-12T08:44:48.000Z] Add spinning animation logic
