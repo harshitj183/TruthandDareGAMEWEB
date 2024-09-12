@@ -137,3 +137,4 @@
 - [2024-09-10T13:25:48.000Z] Tweak CSS styles
 - [2024-09-10T04:59:20.000Z] Refactor JS functions
 - [2024-09-10T12:35:38.000Z] Update project structure
+- [2024-09-12T15:53:23.000Z] Update README with more instructions
