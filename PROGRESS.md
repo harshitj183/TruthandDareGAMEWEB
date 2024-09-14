@@ -145,3 +145,4 @@
 - [2024-09-13T04:01:48.000Z] Refine UI layout
 - [2024-09-14T06:13:55.000Z] Tweak CSS styles
 - [2024-09-14T05:56:21.000Z] Optimize background colors
+- [2024-09-14T09:42:43.000Z] Update README with more instructions
