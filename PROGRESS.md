@@ -150,3 +150,4 @@
 - [2024-09-15T08:23:39.000Z] Log progress on truth and dare generation
 - [2024-09-15T12:16:03.000Z] Adjust font family for better readability
 - [2024-09-16T04:59:28.000Z] Test edge cases for empty name input
+- [2024-09-16T14:55:18.000Z] Update README with more instructions
