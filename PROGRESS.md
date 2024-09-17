@@ -153,3 +153,4 @@
 - [2024-09-16T14:55:18.000Z] Update README with more instructions
 - [2024-09-16T08:59:15.000Z] Update DOM manipulation method
 - [2024-09-16T13:46:33.000Z] Update DOM manipulation method
+- [2024-09-17T06:36:43.000Z] Add spinning animation logic
