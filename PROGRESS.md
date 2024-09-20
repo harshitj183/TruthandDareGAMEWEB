@@ -161,3 +161,4 @@
 - [2024-09-18T13:49:18.000Z] Refactor JS functions
 - [2024-09-20T16:50:39.000Z] Refine UI layout
 - [2024-09-20T09:25:49.000Z] Fix minor bug in random selection
+- [2024-09-20T07:31:09.000Z] Adjust font family for better readability
