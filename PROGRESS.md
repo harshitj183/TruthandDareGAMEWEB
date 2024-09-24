@@ -170,3 +170,4 @@
 - [2024-09-23T17:33:56.000Z] Fix layout for smaller screens
 - [2024-09-23T10:16:17.000Z] Fix minor bug in random selection
 - [2024-09-23T11:42:39.000Z] Clean up unused variables
+- [2024-09-24T18:26:48.000Z] Log progress on truth and dare generation
