@@ -172,3 +172,4 @@
 - [2024-09-23T11:42:39.000Z] Clean up unused variables
 - [2024-09-24T18:26:48.000Z] Log progress on truth and dare generation
 - [2024-09-26T15:40:55.000Z] Update README with more instructions
+- [2024-09-26T06:41:40.000Z] Tweak CSS styles
