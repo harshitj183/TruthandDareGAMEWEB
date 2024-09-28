@@ -180,3 +180,4 @@
 - [2024-09-28T14:31:31.000Z] Adjust font family for better readability
 - [2024-09-28T14:45:20.000Z] Add spinning animation logic
 - [2024-09-28T09:38:23.000Z] Update project structure
+- [2024-09-28T13:30:28.000Z] Refactor JS functions
